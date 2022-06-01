@@ -26,7 +26,7 @@
   <a href="https://soundcloud.com/diogo_rangel" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/_diogorangel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
   
-  ![Snake animation](https://github.com/diogorangel/diogorangel/blob/main/.github/workflows/snake.yml)
+  ![Snake animation](https://github.com/diogorangel/diogorangel/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <!--
