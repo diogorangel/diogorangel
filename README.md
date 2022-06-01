@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working how Quality Assurance Analyst and studying Java, Pyhton, Html and CSS.
+- 🔭 I’m currently working how Quality Assurance Analyst and studying Java, Pyhton,C++, HTML and CSS.
 - I’m currently learning more about automation front-end, tests and development
 - I am a good lister and I produced some beats.
 
