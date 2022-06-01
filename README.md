@@ -25,8 +25,6 @@
   <a href = "mailto:diodam.rangel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://soundcloud.com/diogo_rangel" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/_diogorangel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-  [Snake animation](https://github.com/diogorangel/diogorangel/blob/main/cobrinha.yml)
- 
 </div>
 
 <!--
@@ -43,4 +41,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img align="right" alt="Diogo-pic" height="170" style="border-radius:70px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+![Snake animation](https://github.com/diogorangel/diogorangel/blob/main/cobrinha.yml)
 -->
