@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img align="right" alt="Diogo-pic" height="170" style="border-radius:70px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-![Snake animation](https://github.com/diogorangel/diogorangel/blob/main/cobrinha.yml)
+![Snake animation](https://github.com/diogorangel/diogorangel/blob/main/.github/workflows/snake.yml)
 -->
