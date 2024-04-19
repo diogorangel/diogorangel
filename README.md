@@ -22,7 +22,7 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/diogorangels" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://github.com/diogorangel" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+   <a href="https://github.com/diogorangel" target="_blank"><img src="https://img.shields.io/badge/GitHub-650b95?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
    <a href="https://gitlab.com/diogorangel" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
   <a href = "mailto:diodam.rangel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://soundcloud.com/diogo_rangel" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank"></a>
