@@ -30,7 +30,7 @@ I am passionate about learning new technologies, security and applying them to s
    <a href="https://gitlab.com/diogorangel" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
   <a href = "mailto:diodam.rangel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://soundcloud.com/diogo_rangel" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank"></a>
-   <a href="https://www.youtube.com/@_diogorangel" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCt1FtU-lbfQq65yJmpba7UwFF3300?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href="https://www.youtube.com/@_diogorangel" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCt1FtU-lbfQq65yJmpba7Uw" target="_blank"></a>
  <a href="https://instagram.com/_diogorangel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0c0d05?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://facebook.com/diogorangels" target="_blank"><img src="https://img.shields.io/badge/Facebook-3708f7?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   
