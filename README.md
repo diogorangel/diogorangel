@@ -1,7 +1,11 @@
 ### Hi there 👋
-- 🔭 I’m currently working how Quality Assurance Analyst and studying Java, Pyhton,C++, HTML and CSS.
-- I’m currently learning more about automation front-end, tests and development
-- I am a good lister and I produced some beats.
+I'm Diogo Rangel. As a System Analyst (QA), I have over 6 years of experience in test automation, quality assurance, and software development using Java, Python, Selenium, Cucumber,SQL, HTML , CSS and other tools and frameworks. I work with a bank client to deliver reliable, secure, and user-friendly web and mobile applications, APIs, and web services, using agile methodology and best practices of cybersecurity.
+I am passionate about learning new technologies, security and applying them to solve real-world problems. I have completed multiple certifications and courses in machine learning, software testing, IoT and cybersecurity. I understood that really necessary a excellent service of security and I have characteristics and profile for be a excellent professional and offer this service. My values is:
+•	Integrity
+•	Confidentiality
+•	Obedient
+•	Diligent
+
 
 <div align="center">
   <a href="https://github.com/diogorangel">
@@ -26,6 +30,7 @@
    <a href="https://gitlab.com/diogorangel" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
   <a href = "mailto:diodam.rangel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://soundcloud.com/diogo_rangel" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank"></a>
+   <a href="https://www.youtube.com/@_diogorangel" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/_diogorangelFF3300?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/_diogorangel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0c0d05?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://facebook.com/diogorangels" target="_blank"><img src="https://img.shields.io/badge/Facebook-3708f7?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   
