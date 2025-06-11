@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Diogo Rangel. As a System Analyst (QA), I have over 6 years of experience in test automation, quality assurance, and software development using Java, Python, Selenium, Cucumber,SQL, HTML , CSS and other tools and frameworks. I work with a bank client to deliver reliable, secure, and user-friendly web and mobile applications, APIs, and web services, using agile methodology and best practices of cybersecurity.
+I'm Diogo Rangel. As a System Analyst (QA), I have over years of experience in test automation, quality assurance, and software development using Java, Python, Selenium, Cucumber,SQL, HTML , CSS and other tools and frameworks. I work with a bank client to deliver reliable, secure, and user-friendly web and mobile applications, APIs, and web services, using agile methodology and best practices of cybersecurity.
 I am passionate about learning new technologies, security and applying them to solve real-world problems. I have completed multiple certifications and courses in machine learning, software testing, IoT and cybersecurity. I understood that really necessary a excellent service of security and I have characteristics and profile for be a excellent professional and offer this service. My values is:
 •	Integrity
 •	Confidentiality
