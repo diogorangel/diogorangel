@@ -5,7 +5,7 @@ I have a proven track record of working with major banking clients, delivering c
 
 With an MBA in Agile Management, I bring a strategic perspective to my work, focused on optimizing processes and driving team success. My diverse background, including experience as a Support Analyst and a foundation in music and web development, provides me with a unique analytical and creative problem-solving approach. I am driven to become a leader and expert in the field of software engineering and test automation, dedicated to building high-impact, scalable solutions.
 
-My values is:
+###My values is ☀️:
 •	Integrity
 •	Confidentiality
 •	Obedient
