@@ -3,7 +3,7 @@ As a seasoned System Analyst specializing in Quality Assurance, I excel at devel
 
 I have a proven track record of working with major banking clients, delivering critical software that meets stringent quality standards. My passion for technology extends beyond my core role, as I continuously expand my knowledge through certifications in machine learning, IoT, and cybersecurity.
 
-With an MBA in Agile Management, I bring a strategic perspective to my work, focused on optimizing processes and driving team success. My diverse background, including experience as a Support Analyst and a foundation in music and web development, provides me with a unique analytical and creative problem-solving approach. I am driven to become a leader and expert in the field of software engineering and test automation, dedicated to building high-impact, scalable solutions.
+With an MBA in Agile Management and Post-graduation and Sofware Enginner, I bring a strategic perspective to my work, focused on optimizing processes and driving team success. My diverse background, including experience as a Support Analyst and a foundation in music and web development, provides me with a unique analytical and creative problem-solving approach. I am driven to become a leader and expert in the field of software engineering and test automation, dedicated to building high-impact, scalable solutions.
 
 ### My values is ☀️:
 •	Integrity
