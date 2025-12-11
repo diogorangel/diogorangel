@@ -14,10 +14,11 @@ With an MBA in Agile Management and Post-graduation and Sofware Enginner, I brin
 
 <div align="center">
    <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=diogorangel">
-   <img height="190em" src="(https://github.com/diogorangel/github-readme-stats-fast">
-  <!-- a href="https://github-readme-stats.vercel.app/api?username=diogorangel"-->
-  <!--img height="190em" src="https://github-readme-stats.vercel.app/api?username=diogorangel&show_icons=true&include_all_commits=true&count_private=true&bg_color=333&text_color=fff&token"/-->
-  <!--img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogorangel&layout=compact&langs_count=7&theme=dark"/--> 
+   <img height="190em" src="https://github.com/diogorangel/github-readme-stats-fast">
+   <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=diogorangel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+  <!-- <a href="https://github.com/diogorangel">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=diogorangel&show_icons=true&bg_color=333&text_color=fff&title_color=D1D1D1&icon_color=D1D1D1&border_radius=8&hide=prs&include_all_commits=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogorangel&layout=compact&langs_count=7&theme=dark"/-->
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
