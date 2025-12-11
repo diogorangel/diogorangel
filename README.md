@@ -13,11 +13,12 @@ With an MBA in Agile Management and Post-graduation and Sofware Enginner, I brin
 
 
 <div align="center">
-   <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=diogorangel">
-   <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=diogorangel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+   <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=diogorangel&theme=buefy&show_icons=true">
   <!-- <a href="https://github.com/diogorangel">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=diogorangel&show_icons=true&bg_color=333&text_color=fff&title_color=D1D1D1&icon_color=D1D1D1&border_radius=8&hide=prs&include_all_commits=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogorangel&layout=compact&langs_count=7&theme=dark"/-->
+   ![Snake animation](https://github.com/diogorangel/diogorangel/blob/output/github-contribution-grid-snake.svg)
+</div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -43,23 +44,9 @@ With an MBA in Agile Management and Post-graduation and Sofware Enginner, I brin
    <a href="https://www.youtube.com/@_diogorangel" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCt1FtU-lbfQq65yJmpba7Uw" target="_blank"></a>
  <a href="https://instagram.com/_diogorangel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0c0d05?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://facebook.com/diogorangels" target="_blank"><img src="https://img.shields.io/badge/Facebook-3708f7?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/diogorangel/diogorangel/blob/output/github-contribution-grid-snake.svg)
+  <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=diogorangel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
 </div>
-
-<!--
-**diogorangel/diogorangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working how Quality Assurance Analyst ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--div>
 <img align="right" alt="Diogo-pic" height="170" style="border-radius:70px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 ![Snake animation](https://github.com/diogorangel/diogorangel/blob/main/.github/workflows/snake.yml)
--->
+</div-->
