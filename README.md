@@ -13,8 +13,6 @@ With an MBA in Agile Management and Post-graduation and Sofware Enginner, I brin
 
 
 <div align="center">
-  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=diogorangel)](https://github.com/diogornagel/github-readme-stats-fast)
-  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast)
    <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=diogorangel">
    <img height="190em" src="(https://github.com/diogorangel/github-readme-stats-fast">
   <!-- a href="https://github-readme-stats.vercel.app/api?username=diogorangel"-->
