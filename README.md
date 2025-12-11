@@ -17,7 +17,6 @@ With an MBA in Agile Management and Post-graduation and Sofware Enginner, I brin
   <!-- <a href="https://github.com/diogorangel">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=diogorangel&show_icons=true&bg_color=333&text_color=fff&title_color=D1D1D1&icon_color=D1D1D1&border_radius=8&hide=prs&include_all_commits=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogorangel&layout=compact&langs_count=7&theme=dark"/-->
-   ![Snake animation](https://github.com/diogorangel/diogorangel/blob/output/github-contribution-grid-snake.svg)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,6 +29,9 @@ With an MBA in Agile Management and Post-graduation and Sofware Enginner, I brin
   <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="playwright" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg">
+
+   ![Snake animation](https://github.com/diogorangel/diogorangel/blob/output/github-contribution-grid-snake.svg)
+
 </div>
   
   ##
