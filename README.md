@@ -14,7 +14,7 @@ With an MBA in Agile Management and Post-graduation and Sofware Enginner, I brin
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=diogorangel">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=diogorangel&show_icons=true&include_all_commits=true&bg_color=333&text_color=fff&title_color=D1D1D1&icon_color=D1D1D1&border_radius=8&count_private=true&disable_animations=false"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=diogorangel&show_icons=true&include_all_commits=true&count_private=true&bg_color=333&text_color=fff&token"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogorangel&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
