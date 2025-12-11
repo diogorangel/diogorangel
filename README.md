@@ -42,6 +42,9 @@ With an MBA in Agile Management and Post-graduation and Sofware Enginner, I brin
    <a href="https://www.youtube.com/@_diogorangel" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCt1FtU-lbfQq65yJmpba7Uw" target="_blank"></a>
  <a href="https://instagram.com/_diogorangel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0c0d05?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://facebook.com/diogorangels" target="_blank"><img src="https://img.shields.io/badge/Facebook-3708f7?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+</div>
+
+<div>
   <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=diogorangel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
 </div>
 <!--div>
