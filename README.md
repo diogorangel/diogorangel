@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 As a seasoned System Analyst specializing in Sofware Engineering and Test Engineering, I excel at developing and implementing robust test automation frameworks to ensure the reliability, security, and user-friendliness of web, mobile, and API solutions. My expertise spans a variety of technologies, including Java, Python, JavaScript, TypeScript, Playwright, Selenium, Cucumber, and SQL, and I am adept at applying agile methodologies to streamline the development lifecycle.
 
 I have a proven track record of working with major banking clients, delivering critical software that meets stringent quality standards. My passion for technology extends beyond my core role, as I continuously expand my knowledge through certifications in machine learning, IoT, and cybersecurity.
