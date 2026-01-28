@@ -31,9 +31,6 @@ With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring
   <img align="center" alt="typescript" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="playwright" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg">
-  
-          
-          
 </div>
   
 <div> 
@@ -48,8 +45,11 @@ With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring
 </div>
 
 <div>
-   
    ![Snake animation](https://github.com/diogorangel/diogorangel/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+<div>
+   ![Languages more used](https://github-readme-stats.vercel.app/api/top-langs/?username=diogorangel&layout=compact&theme=vision-friendly-dark)
 </div>
 
 <div>
