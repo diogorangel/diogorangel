@@ -45,11 +45,15 @@ With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring
 </div>
 
 <div>
+   
    ![Snake animation](https://github.com/diogorangel/diogorangel/blob/output/github-contribution-grid-snake.svg)
+   
 </div>
 
 <div>
+   
    ![Languages more used](https://github-readme-stats.vercel.app/api/top-langs/?username=diogorangel&layout=compact&theme=vision-friendly-dark)
+   
 </div>
 
 <div>
