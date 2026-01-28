@@ -50,12 +50,10 @@ With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring
    
 </div>
 
-<div>
-   
-   ![Languages more used](https://github-readme-stats.vercel.app/api/top-langs/?username=diogorangel&layout=compact&theme=vision-friendly-dark)
-   
-   <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=diogorangel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=buefy&show_icons=true">
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogorangel&layout=compact&theme=vision-friendly-dark" />
+  <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=diogorangel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=buefy&show_icons=true"/>
+</p>
 <!--div>
 <img align="right" alt="Diogo-pic" height="170" style="border-radius:70px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 ![Snake animation](https://github.com/diogorangel/diogorangel/blob/main/.github/workflows/snake.yml)
