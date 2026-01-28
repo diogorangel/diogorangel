@@ -54,9 +54,6 @@ With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring
    
    ![Languages more used](https://github-readme-stats.vercel.app/api/top-langs/?username=diogorangel&layout=compact&theme=vision-friendly-dark)
    
-</div>
-
-<div>
    <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=diogorangel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=buefy&show_icons=true">
 </div>
 <!--div>
