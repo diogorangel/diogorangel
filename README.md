@@ -31,6 +31,7 @@ With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring
   <img align="center" alt="typescript" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="playwright" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg">
+  <img align="center" alt="robotframework" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/robotframework/robotframework-original.svg">
 </div>
   
 <div> 
