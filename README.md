@@ -27,7 +27,7 @@ With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring
      <img align="center" alt="typescript" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
      <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
      <img align="center" alt="playwright" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg">
-     <img align="center" alt="playwright" height="300" width="280" src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white">
+     <img align="center" alt="playwright" height="30" width="40" src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white">
    <br> <img align="center" alt="cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
    <img align="center" alt="githubactions" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg">
    <img align="center" alt="gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg">
@@ -35,7 +35,7 @@ With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring
    <img align="center" alt="postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
    <img align="center" alt="swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
    <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-   <img align="center" alt="appium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appium/appium-original.svg">
+   <img align="center" alt="appium" height="30" width="40" src="https://img.shields.io/badge/Appium-00BFFF?style=for-the-badge&logo=appium&logoColor=white">
    <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
    <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 </div>
