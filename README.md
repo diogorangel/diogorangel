@@ -29,7 +29,7 @@ With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring
   <img align="center" alt="playwright" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg">
   </div>
 
-![RobotFramework]([https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white))
+![Robot Framework]([https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white))
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
