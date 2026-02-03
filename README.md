@@ -6,10 +6,11 @@ I have a proven track record of working with major banking clients, delivering c
 With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring a strategic perspective to my work, focused on optimizing processes and driving team success. My diverse background, including experience as a Support Analyst and a foundation in music and web development, provides me with a unique analytical and creative problem-solving approach. I am driven to become a leader and expert in the field of software engineering and test automation, dedicated to building high-impact, scalable solutions.
 
 ### My values is ☀️:
-•	Integrity
-•	Confidentiality
-•	Obedient
-•	Diligent
+
+<br> •	Integrity
+<br> •	Confidentiality
+<br> •	Obedient
+<br> •	Diligent
 
 
 <div align="center">
@@ -31,8 +32,19 @@ With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring
   <img align="center" alt="typescript" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="playwright" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg">
-  <img align="center" alt="robotframework" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/robotframework/robotframework-original.svg">
+  <img align="center" alt="robotframework" height="30" width="40" src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white">
 </div>
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-00BFFF?style=for-the-badge&logo=appium&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   
 <div> 
   <a href="https://www.linkedin.com/in/diogorangels" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
