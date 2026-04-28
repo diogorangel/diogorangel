@@ -2,6 +2,7 @@
 As a seasoned Software Enginner specializing in Sofware Engineering and Test Engineering, I excel at developing and implementing robust test automation frameworks to ensure the reliability, security, and user-friendliness of web, mobile, and API solutions. My expertise spans a variety of technologies, including Java, Python, JavaScript, TypeScript, Playwright,, Robot Framework, Selenium, Cucumber, and SQL, and I am adept at applying agile methodologies to streamline the development lifecycle.
 I have a proven track record of working with major banking clients, delivering critical software that meets stringent quality standards. My passion for technology extends beyond my core role, as I continuously expand my knowledge through certifications in machine learning, IoT, and cybersecurity.
 With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring a strategic perspective to my work, focused on optimizing processes and driving team success. My diverse background, including experience as a Support Analyst and a foundation in music and web development, provides me with a unique analytical and creative problem-solving approach. I am driven to become a leader and expert in the field of software engineering and test automation, dedicated to building high-impact, scalable solutions.
+
 ### My values is ☀️:
 <br> Integrity
 <br> Confidentiality
@@ -13,7 +14,9 @@ With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring
   <!-- <a href="https://github.com/diogorangel">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=diogorangel&show_icons=true&bg_color=333&text_color=fff&title_color=D1D1D1&icon_color=D1D1D1&border_radius=8&hide=prs&include_all_commits=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogorangel&layout=compact&langs_count=7&theme=dark"/-->
-### 🛠️ Tools & Technologies  
+
+   
+### 🛠️Tools & Technologies :
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
