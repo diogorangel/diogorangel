@@ -1,7 +1,5 @@
 ### Hi 👋
-As a seasoned Software Enginner specializing in Sofware Engineering and Test Engineering, I excel at developing and implementing robust test automation frameworks to ensure the reliability, security, and user-friendliness of web, mobile, and API solutions. My expertise spans a variety of technologies, including Java, Python, JavaScript, TypeScript, Playwright,, Robot Framework, Selenium, Cucumber, and SQL, and I am adept at applying agile methodologies to streamline the development lifecycle.
-I have a proven track record of working with major banking clients, delivering critical software that meets stringent quality standards. My passion for technology extends beyond my core role, as I continuously expand my knowledge through certifications in machine learning, IoT, and cybersecurity.
-With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring a strategic perspective to my work, focused on optimizing processes and driving team success. My diverse background, including experience as a Support Analyst and a foundation in music and web development, provides me with a unique analytical and creative problem-solving approach. I am driven to become a leader and expert in the field of software engineering and test automation, dedicated to building high-impact, scalable solutions.
+As a seasoned Software Enginner specializing in Sofware Engineering and Test Engineering, I excel at developing and implementing robust test automation frameworks to ensure the reliability, security, and user-friendliness of web, mobile, and API solutions.for clients of high income and performance.
 
 ### 🛠️ Commits Snake
 <div>
@@ -12,9 +10,7 @@ With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring
 
 <div align="center">
    <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=diogorangel&theme=buefy&show_icons=true">
-  <!-- <a href="https://github.com/diogorangel">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=diogorangel&show_icons=true&bg_color=333&text_color=fff&title_color=D1D1D1&icon_color=D1D1D1&border_radius=8&hide=prs&include_all_commits=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogorangel&layout=compact&langs_count=7&theme=dark"/-->
+</div>
 
    
 ### 🛠️Tools & Technologies :
@@ -61,7 +57,3 @@ With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogorangel&layout=compact&theme=vision-friendly-dark" />
   <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=diogorangel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=buefy&show_icons=true"/>
 </p>
-<!--div>
-<img align="right" alt="Diogo-pic" height="170" style="border-radius:70px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-![Snake animation](https://github.com/diogorangel/diogorangel/blob/main/.github/workflows/snake.yml)
-!--[Snake animation](https://github.com/diogorangel/diogorangel/blob/output/github-contribution-grid-snake.svg--)
