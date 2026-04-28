@@ -3,6 +3,13 @@ As a seasoned Software Enginner specializing in Sofware Engineering and Test Eng
 I have a proven track record of working with major banking clients, delivering critical software that meets stringent quality standards. My passion for technology extends beyond my core role, as I continuously expand my knowledge through certifications in machine learning, IoT, and cybersecurity.
 With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring a strategic perspective to my work, focused on optimizing processes and driving team success. My diverse background, including experience as a Support Analyst and a foundation in music and web development, provides me with a unique analytical and creative problem-solving approach. I am driven to become a leader and expert in the field of software engineering and test automation, dedicated to building high-impact, scalable solutions.
 
+### 🛠️ Commits Snake
+<div>
+   
+   ![Snake animation](https://github.com/diogorangel/diogorangel/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+
 <div align="center">
    <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=diogorangel&theme=buefy&show_icons=true">
   <!-- <a href="https://github.com/diogorangel">
@@ -11,8 +18,6 @@ With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring
 
    
 ### 🛠️Tools & Technologies :
-
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,12 +54,6 @@ With an MBA in Agile Management and Post-graduation in Sofware Enginner, I bring
    <a href="https://www.youtube.com/@_diogorangel" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCt1FtU-lbfQq65yJmpba7Uw" target="_blank"></a>
  <a href="https://instagram.com/_diogorangel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0c0d05?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://facebook.com/diogorangels" target="_blank"><img src="https://img.shields.io/badge/Facebook-3708f7?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-</div>
-
-### 🛠️ Commits
-<div>
-   
-   ![Snake animation](https://github.com/diogorangel/diogorangel/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ### 🛠️ Datas of my commits
