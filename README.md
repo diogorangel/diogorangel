@@ -1,5 +1,5 @@
 ### Hi 👋
-As a seasoned Software Enginner specializing in Sofware Engineering and Test Engineering, I excel at developing and implementing robust test automation frameworks to ensure the reliability, security, and user-friendliness of web, mobile, and API solutions.for clients of high income and performance.
+As a seasoned Software Enginner specializing in Sofware Developer and Software Enginner, I excel at developing and implementing robust apps, CRUD Operations and Java services includind test automation frameworks to ensure the reliability, security, and user-friendliness of web, mobile, and API solutions.for clients of high income and performance.
 
 ### 🛠️ Commits Snake
 <div>
